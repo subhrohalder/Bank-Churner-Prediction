@@ -3,6 +3,7 @@ Created on Sun Apr 19 15:39:27 2020
 
 @author: subhrohalder
 """
+#Dataset link: https://www.kaggle.com/kmalit/bank-customer-churn-prediction
 #Imports
 import pandas as pd
 import numpy as np
